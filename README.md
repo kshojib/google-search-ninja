@@ -5,7 +5,7 @@ Welcome to the "Google Search Ninja" repository! This is a collection of advance
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Search Tips](#basic-search-tips)
+- [Search Tips](#search-tips)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -62,7 +62,7 @@ Example: To search for websites that are similar to Stack Overflow, search for "
 
 ## Contributing
 
-If you know of any other Google search tricks that aren't included in this repository, feel free to [contribute](contributing.md) by submitting a pull request. Let's make this the ultimate resource for Google search enthusiasts! 
+If you know of any other Google search tricks that aren't included in this repository, feel free to [contribute](CONTRIBUTING.md) by submitting a pull request. Let's make this the ultimate resource for Google search enthusiasts! 
 
 
 
