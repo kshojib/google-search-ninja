@@ -5,14 +5,14 @@ Welcome to the "Google Search Ninja" repository! This is a collection of advance
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Basic Search Tips](#basic-search-tips)
-- [Advanced Search Tips](#advanced-search-tips)
-- [Other Google Search Tools](#other-google-search-tools)
+- [Search Tips](#basic-search-tips)
 - [Contributing](#contributing)
 
 ## Introduction
 
 Google Search is a powerful tool that can help you find almost anything on the internet. However, not everyone knows how to use it to its full potential. This repository is designed to help you become a "Google Search Ninja" by teaching you advanced search techniques that can save you time and frustration.
+
+## Search tips
 
 
 ### Trick 1: Use specific keywords
